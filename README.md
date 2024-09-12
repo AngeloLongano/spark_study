@@ -29,4 +29,5 @@ Per approfondimenti si manda al link dei vari [stacks docker per Jupyter](https:
 Nel notebook verrà fatta un addestramento di Machine Learning utilizzando il Random Forest per una classificazione multipla.  
 Il dataset [connect-4](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#connect-4) è stato scelto dai dataset LIBSVM di [Chih-Jen Lin](https://www.csie.ntu.edu.tw/~cjlin/index.html) con più 67k esempi. 
 
+Il progetto è disponibile anche su [github](https://github.com/AngeloLongano/spark_study.git).
 
